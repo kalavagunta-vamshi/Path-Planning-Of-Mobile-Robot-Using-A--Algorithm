@@ -1,9 +1,4 @@
-# A-star Algorithm
 
-##### Surya Chappidi (UID:119398166)(Directory ID: Chappidi)
-##### Vamshi Kalavagunta (UID: 119126332)(Directory ID: vamshik) 
-
-### Github Link: https://github.com/Suryachappidi/proj3_astar
 
 ### Demo videos
 part1: https://drive.google.com/file/d/10kRCP2tK4UXXdxRaQT-3ReDn1fS_8_lY/view?usp=share_link
