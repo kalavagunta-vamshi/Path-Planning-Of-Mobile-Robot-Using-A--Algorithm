@@ -1,11 +1,5 @@
 
 
-### Demo videos
-part1: https://drive.google.com/file/d/10kRCP2tK4UXXdxRaQT-3ReDn1fS_8_lY/view?usp=share_link
-
-part2 demo1: https://drive.google.com/file/d/1AJL7qBV6aPueJ8R7CJWWdDk0XUdpG3E4/view?usp=share_link
-
-part2 demo2: https://drive.google.com/file/d/1XJ6IKED7USyVjtfyQhxSP8GRFA6pl9dP/view?usp=share_link
 
 ### Dependencies 
 * numpy
@@ -48,3 +42,11 @@ Test case2:
 
 ### Visualisation Instruction:
 * uncomment line 188 (i.e #plt.pause(0.000000001)) to visualise animation of exploration and optimal path travel.
+
+### Demo videos
+part1: https://drive.google.com/file/d/10kRCP2tK4UXXdxRaQT-3ReDn1fS_8_lY/view?usp=share_link
+
+part2 demo1: https://drive.google.com/file/d/1AJL7qBV6aPueJ8R7CJWWdDk0XUdpG3E4/view?usp=share_link
+
+part2 demo2: https://drive.google.com/file/d/1XJ6IKED7USyVjtfyQhxSP8GRFA6pl9dP/view?usp=share_link
+
